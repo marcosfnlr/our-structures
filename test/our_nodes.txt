@@ -1,0 +1,23 @@
+a,1
+b,2
+c,3
+batata,12
+coffee,4
+links,-9834
+type,13
+frijoles,99
+lineup,7
+batata,15
+coffee,20
+coffee,21
+this,1
+is,2
+the,3
+state,4
+of,5
+grace,6
+this is the worth while fight,7
+loveisaruthlessgame,8
+unless,0899523
+youplayitgoodandright,777
+a,5
